@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="169px" height="69px" viewBox="0 0 169 69" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Friuliverylogored</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <text id="text-1" font-family="Pacifico" font-size="36" font-weight="normal" letter-spacing="0.371376">
+            <tspan x="0.237846563" y="51">Friulivery</tspan>
+        </text>
+        <filter x="-9.3%" y="-22.4%" width="123.3%" height="149.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="2" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.925384964   0 0 0 0 0.925384964   0 0 0 0 0.925384964  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-3" font-family="Pacifico" font-size="36" font-weight="normal" letter-spacing="0.371376">
+            <tspan x="67.1241533" y="51">livery</tspan>
+        </text>
+        <filter x="-17.1%" y="-22.4%" width="142.7%" height="149.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="2" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.925384964   0 0 0 0 0.925384964   0 0 0 0 0.925384964  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Foozi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Friuliverylogored" transform="translate(5.000000, -9.000000)">
+            <g id="Friulivery" fill="#E9E9E9">
+                <use fill-opacity="1" filter="url(#filter-2)" xlink:href="#text-1"></use>
+                <use fill-rule="evenodd" xlink:href="#text-1"></use>
+                <use fill-opacity="1" xlink:href="#text-1"></use>
+            </g>
+            <g id="livery" fill="#C12525">
+                <use fill-opacity="1" filter="url(#filter-4)" xlink:href="#text-3"></use>
+                <use fill-rule="evenodd" xlink:href="#text-3"></use>
+                <use fill-opacity="1" xlink:href="#text-3"></use>
+            </g>
+        </g>
+    </g>
+</svg>
